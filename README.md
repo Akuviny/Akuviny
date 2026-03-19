@@ -1,76 +1,66 @@
-<h1 align="center">
-⚡ Aku | Back-end Developer in Progress ⚡
-</h1>
+<h1 align="center">Aku</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Futuro+Dev+Back-end;Criando+projetos+reais;Python+%7C+Sistemas+%7C+Tecnologia;Construindo+minha+própria+história" />
+Back-end Developer in Progress • ADS Student
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Back-end+Developer+in+progress;Python+%7C+APIs+%7C+Systems;Focado+em+conseguir+um+estágio;Construindo+projetos+reais" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-💻 Focado em me tornar desenvolvedor back-end  
-🎓 Estudando Análise e Desenvolvimento de Sistemas  
-🚀 Criando projetos com impacto real  
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end.
 
-### ⚡ Projetos em construção:
-- EcoCharge → Energia sustentável  
-- Cathedral → Comunidade tech  
+Atualmente estou construindo minha base em programação, sistemas e arquitetura de software, com o objetivo de conquistar uma oportunidade de estágio e evoluir na área.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Habilidades em desenvolvimento
+
+- Python  
+- Lógica de programação  
+- Git e GitHub  
+- Conceitos de APIs e back-end  
+- Estrutura de sistemas  
+
+---
+
+## 📂 Projetos
+
+🔹 Em breve — projetos em desenvolvimento  
+*(em breve aqui terá APIs, sistemas e aplicações reais)*  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default"/>
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Objetivo
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=chartreuse-dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=chartreuse-dark"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=chartreuse-dark" />
-</p>
-
----
-
-## 👁️ Visitas no perfil
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=00ff00" />
-</p>
-
----
-
-## 🎯 Objetivos
-
-- 🚀 Virar dev back-end júnior  
-- 💰 Ganhar dinheiro com tecnologia  
-- 🧠 Evoluir todos os dias  
-- 🏗️ Criar projetos grandes  
+Busco uma oportunidade de estágio como desenvolvedor back-end, onde eu possa aplicar meus conhecimentos, aprender com o time e evoluir profissionalmente.
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## ⚡ Mentalidade
+## 🧩 Diferencial
 
-> "Disciplina cria o futuro que a motivação não sustenta."
+- Mentalidade de crescimento constante  
+- Interesse em tecnologia e construção de projetos reais  
+- Foco em disciplina e evolução contínua  
